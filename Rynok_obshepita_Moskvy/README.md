@@ -6,7 +6,6 @@
 ## Навыки и инструменты
 - Python
 - Pandas
-- Seaborn
 - Plotly
 - визуализация данных
 
