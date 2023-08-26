@@ -9,7 +9,7 @@
   </tr>
  <tr>
   <td>1</td>
-  <td><a href scr="[Analiz-tarifov-operatora-svyazi/README.md](https://github.com/evgeniyadubs/Portfolio/tree/main/Analiz-tarifov-operatora-svyazi/README.md)">Определение выгодного тарифа для телеком компании</a></td>
+  <td><a href scr="https://github.com/evgeniyadubs/Portfolio/tree/main/Analiz-tarifov-operatora-svyazi/README.md">Определение выгодного тарифа для телеком компании</a></td>
   <td>Проведён предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора. Проведена предобработка данных и их анализ. Проверены гипотезы о различии выручки абонентов Москвы и других регионов.</td>
   <td><li>Python,</li>
 <li>Pandas,</li>
