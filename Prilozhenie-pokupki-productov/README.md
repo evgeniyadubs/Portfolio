@@ -1,5 +1,7 @@
 # Анализ пользовательского поведения в мобильном приложении
 
+[Prilozhenie-pokupki-productov/prilozheniye-pokupki-produktov.ipynb](Prilozhenie-pokupki-productov/prilozheniye-pokupki-produktov.ipynb)
+
 ## Описание
 В данном проекте применены принципы событийной аналитики: 
 - построена воронка продаж, исследован путь пользователей до покупки. 
