@@ -1,6 +1,6 @@
 # Исследование надёжности заёмщиков — анализ банковских данных
 
-![Nadezhnost-zaemshikov/Nadezhnost-zaemshikov2.ipynb](Nadezhnost-zaemshikov/Nadezhnost-zaemshikov2.ipynb)
+[Nadezhnost-zaemshikov/Nadezhnost-zaemshikov2.ipynb](Nadezhnost-zaemshikov/Nadezhnost-zaemshikov2.ipynb)
 
 ## Описание
 На основе данных кредитного отдела банка исследовано влияние:
