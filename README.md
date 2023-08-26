@@ -9,7 +9,7 @@
   </tr>
  <tr>
   <td>1</td>
-  <td><a href scr="https://github.com/evgeniyadubs/Portfolio/tree/main/Analiz-tarifov-operatora-svyazi/README.md">Определение выгодного тарифа для телеком компании</a></td>
+  <td><a href scr="[https://github.com/evgeniyadubs/Portfolio/tree/main/Analiz-tarifov-operatora-svyazi/README.md](https://github.com/evgeniyadubs/Portfolio/blob/main/Analiz-tarifov-operatora-svyazi/README.md)">Определение выгодного тарифа для телеком компании</a></td>
   <td>Проведён предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора. Проведена предобработка данных и их анализ. Проверены гипотезы о различии выручки абонентов Москвы и других регионов.</td>
   <td><li>Python,</li>
 <li>Pandas,</li>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
   <td>3</td>
-  <td><a href scr="[Nadezhnost-zaemshikov/README.md](https://github.com/evgeniyadubs/Portfolio/tree/main/Nadezhnost-zaemshikov/README.md)">Исследование надёжности заёмщиков — анализ банковских данных</a><</td>
+  <td><a href scr="[Nadezhnost-zaemshikov/README.md](https://github.com/evgeniyadubs/Portfolio/tree/main/Nadezhnost-zaemshikov/README.md)">Исследование надёжности заёмщиков — анализ банковских данных</a></td>
   <td>На основе данных кредитного отдела банка исследовано влияние:<ul>
 <li>семейного положения,</li>
 <li>количества детей,</li>
