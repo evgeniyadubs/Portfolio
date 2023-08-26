@@ -1,4 +1,7 @@
 # Проверка гипотез по увеличению выручки в интернет-магазине — оценка результаты A/B теста
+
+[Proverka-gipotez-uvelicheniya-vyruchki/8_gipotezy_uvelichenie_vyruchki.ipynb](Proverka-gipotez-uvelicheniya-vyruchki/8_gipotezy_uvelichenie_vyruchki.ipynb)
+
 ## Описание
 Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами.
 ## Навыки и инструменты
