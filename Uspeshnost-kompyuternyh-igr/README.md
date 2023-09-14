@@ -1,6 +1,6 @@
 # Определение закономерностей успешной компьютерной игры
 
-[Issledovanie-obyavleniy-o-prodazhe-kvartir/issledovaniye-obyavleniy-o-prodazhe-kvartir.ipynb](Issledovanie-obyavleniy-o-prodazhe-kvartir/issledovaniye-obyavleniy-o-prodazhe-kvartir.ipynb)
+[Uspeshnost-kompyuternyh-igr.ipynb](Uspeshnost-kompyuternyh-igr.ipynb)
 ## Описание
 Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры. 
 
