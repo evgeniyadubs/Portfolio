@@ -1,6 +1,6 @@
 # Определение выгодного тарифа для телеком компании
 
-[Analiz-tarifov-operatora-svyazi/Analiz-tarifov-operatora-svyazi.ipynb](Analiz-tarifov-operatora-svyazi/Analiz-tarifov-operatora-svyazi.ipynb)
+[Analiz-tarifov-operatora-svyazi.ipynb](Analiz-tarifov-operatora-svyazi.ipynb)
 
 ## Описание
 Проведён предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора. Проведена предобработка данных и их анализ. Проверены гипотезы о различии выручки абонентов Москвы и других регионов.
