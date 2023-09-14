@@ -66,7 +66,7 @@
   <tr>
   <td>5</td>
   <td>Исследование рынка общепита в Москве для принятия решения об открытии нового заведения 
-  https://github.com/evgeniyadubs/Portfolio/tree/main/Rynok_obshepita_Moskvy/README.md</td>
+  https://github.com/evgeniyadubs/Portfolio/tree/main/Rynok-obshepita-Moskvy/README.md</td>
   <td>Подготовлено исследование рынка на основе открытых данных о заведениях общественного питания Москвы, визуализированы полученные данные. На основе данных выбрано место для открытия новой кофейни. В построении графиков использованы библиотеки seaborn и plotly.</td>
   <td><ul>
    <li>Python,</li>
